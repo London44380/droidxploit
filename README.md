@@ -1,7 +1,7 @@
 <img width="1398" height="1556" alt="generated-image(1)" src="https://github.com/user-attachments/assets/f32d21a0-33d0-41f5-a13b-0c8b9e31d400" />
 
-[![Kotlin](https://img.shields.io/badge/Kotlin-1.9-purple)](https://kotlinlang.org/)
-[![JRuby](https://img.shields.io/badge/JRuby-9.4.5.0-yellow)](https://www.jruby.org/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-red)](https://kotlinlang.org/)
+[![JRuby](https://img.shields.io/badge/JRuby-red)](https://www.jruby.org/)
 
 ## **⚠️ LEGAL DISCLAIMER**
 **DroidXploit** is a powerful penetration testing framework designed for **security researchers, ethical hackers, and authorized security assessments**. This app must only be used on networks and systems you **own or have explicit written permission** to test.
