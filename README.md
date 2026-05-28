@@ -1,5 +1,3 @@
-<img width="1398" height="1556" alt="generated-image(1)" src="https://github.com/user-attachments/assets/f32d21a0-33d0-41f5-a13b-0c8b9e31d400" />
-
 [![Kotlin](https://img.shields.io/badge/Kotlin-red)](https://kotlinlang.org/)
 [![JRuby](https://img.shields.io/badge/JRuby-red)](https://www.jruby.org/)
 
